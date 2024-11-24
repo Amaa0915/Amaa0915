@@ -5,8 +5,6 @@
 
 - 👨‍💻 Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **prabuddhini.2001@gmail.com**
 
 ---
